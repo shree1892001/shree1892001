@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shree1892001
 - 👀 I’m interested in Machine Learning ,Deep Learning and Generative AI 
-- 🌱 I’m currently learning  MAchine Learning and Generative AI
+- 🌱 I’m currently learning  Machine Learning and Generative AI
 - 💞️ I’m looking to collaborate on  cutting edge projects related to trending technologies
 - 📫 How to reach me deodhare.shreyas@gmail.com
 - 😄 Pronouns: He/Him
